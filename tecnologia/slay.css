@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://i.pinimg.com/564x/be/61/d5/be61d5a912b3137614dba9c0872fac18.jpg);
+    background-color: #0B0B45;
+}
+
+button {
+    width: 150px;
+    margin-top: 25%;
+    margin-left: 45%;
+    text-align: center;
+    background-color: #0b0f45;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
